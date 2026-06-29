@@ -25,4 +25,4 @@ Pairplot
 Confusion Matrix
 Accuracy Score
 Author
-Anant Tyagi B.Tech CSE (AI & ML)
+Vansh Tyagi B.Tech CSE (AI & ML)
