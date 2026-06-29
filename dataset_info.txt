@@ -1,0 +1,16 @@
+Dataset Name : Iris Dataset
+
+Total Samples : 150
+
+Features :
+1. Sepal Length
+2. Sepal Width
+3. Petal Length
+4. Petal Width
+
+Classes :
+1. Setosa
+2. Versicolor
+3. Virginica
+
+Each class contains 50 samples.
